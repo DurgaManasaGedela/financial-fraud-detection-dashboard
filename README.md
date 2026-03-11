@@ -1,2 +1,3 @@
-# financial-fraud-detection-dashboard
-Power BI dashboard analyzing financial fraud transactions and trends.
+## Dashboard Preview
+
+![Fraud Dashboard](dashboard_preview.png)
